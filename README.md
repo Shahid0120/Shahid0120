@@ -15,7 +15,7 @@
 <table>
     <tbody>
         <tr>
-            <td><a href='#'><img alt='Facebbok' title='F.b' height='50px' src='https://toppng.com/uploads/preview/facebook-logo-white-white-facebook-f-logo-115628618682gxdsl4yn5.png'>
+            <td><a href='#'><img alt='Facebbok' title='F.b' height='50px' src='https://image.pngaaa.com/225/399225-small.png'>
             </td>
             <td><a href='#'><img alt='Instagram' title='Insta' height='50px' src='https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png'>
             </td>
@@ -31,7 +31,7 @@
     <tbody>
         <tr>
             <td><a href="#"><img alt="Python" title="Python" height="50px"
-                        src='https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-black-and-white.png'></a>
+                        src='https://www.vhv.rs/dpng/d/442-4429865_johns-hopkins-logo-white-hd-png-download.png'></a>
             </td>
             <td><a href="#"><img alt="HTML5" title="HTML5" height="50px"
                         src="https://cdn4.iconfinder.com/data/icons/blackicon/54/html5_icon-512.png" /></a>
