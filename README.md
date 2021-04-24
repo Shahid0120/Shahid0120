@@ -13,11 +13,11 @@
 <table>
     <tbody>
         <tr>
-            <td><a href='#'><img alt='Facebbok' title='F.b' height='50px' src='https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png'>
+            <td><a href='https://www.facebook.com/profile.php?id=100029824131793'><img alt='Facebbok' title='F.b' height='50px' src='https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png'>
             </td>
-            <td><a href='#'><img alt='Instagram' title='Insta' height='60px' src='https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png'>
+            <td><a href='https://www.instagram.com/shahid.h_/'><img alt='Instagram' title='Insta' height='60px' src='https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png'>
             </td>
-            <td><a href='#'><img alt='LinkedIn' title='LinkedIn' height='50px' src='https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png'>
+            <td><a href='#'><img alt='LinkedIn' title='LinkedIn' height='50px' src='https://www.linkedin.com/in/shahid-hussain-005952142/'>
             </td>
         </tr>
     <tbody>
