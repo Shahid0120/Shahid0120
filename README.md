@@ -3,10 +3,10 @@
 <img align='center' src='https://cdn.cp.adobe.io/content/2/dcx/3c0064e7-39f4-4ee7-adde-689b94727807/rendition/preview.jpg/version/2/format/jpg/dimension/width/size/1200' ><br><br>
 ✔ Part-time Coder, full-time Fitness Enthusiast<br>
 ✔ Full Stack Student **@coderacademy** <br>
-✔ Goals for 2021
-✔ ✔ Make daily contribution to my github account
-✔ ✔ Contribute to open source projects
-✔ ✔ Be the best version of myself
+✔ Goals for 2021 <br>
+✔ ✔ Make daily contribution to my github account <br>
+✔ ✔ Contribute to open source projects <br>
+✔ ✔ Be the best version of myself <br>
 
 ### <img src='https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111' width='30px' alt='gif of pika saying hi'> Say hi to me?
 
