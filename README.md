@@ -4,11 +4,11 @@
 ✔ Part-time coder, Full time Fitness Enthusiast<br>
 ✔ Full Stack Student **@coderacademy** <br>
 ✔ Goals for 2021
-<ul>
-    <li>Make Daily contribution to my Github account</li>
-    <li>Contribute to open source projects</li>
-    <li>Be the best version of myself</li>
-</ul>
+    <ul>
+        <li>Make Daily contribution to my Github account</li>
+        <li>Contribute to open source projects</li>
+        <li>Be the best version of myself</li>
+    </ul>
 
 ### <img src='https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111' width='30px' alt='gif of pika saying hi'> Say hi to me?
 
