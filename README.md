@@ -1,7 +1,7 @@
 
 <!-- <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Shahid Hussain</h1> -->
 <img align='center' src='https://cdn.cp.adobe.io/content/2/dcx/3c0064e7-39f4-4ee7-adde-689b94727807/rendition/preview.jpg/version/2/format/jpg/dimension/width/size/1200' ><br><br>
-✔ Part-time coder, Full time Fitness Enthusiast<br>
+✔ Part-time Coder, full-time Fitness Enthusiast<br>
 ✔ Full Stack Student **@coderacademy** <br>
 ✔ Goals for 2021
     <ul>
