@@ -15,11 +15,11 @@
 <table>
     <tbody>
         <tr>
-            <td><a href='#'><img alt='Facebbok' title='F.b' height='50px' src='https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png'>
+            <td><a href='#'><img alt='Facebbok' title='F.b' height='50px' src='https://toppng.com/uploads/preview/facebook-logo-white-white-facebook-f-logo-115628618682gxdsl4yn5.png'>
             </td>
             <td><a href='#'><img alt='Instagram' title='Insta' height='50px' src='https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png'>
             </td>
-            <td><a href='#'><img alt='LinkedIn' title='LinkedIn' height='50px' src='https://pngimg.com/uploads/linkedIn/linkedIn_PNG19.png'>
+            <td><a href='#'><img alt='LinkedIn' title='LinkedIn' height='50px' src='https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png'>
             </td>
         </tr>
     <tbody>
@@ -31,13 +31,13 @@
     <tbody>
         <tr>
             <td><a href="#"><img alt="Python" title="Python" height="50px"
-                        src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Python_icon_%28black_and_white%29.svg/1200px-Python_icon_%28black_and_white%29.svg.png'></a>
+                        src='https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-black-and-white.png'></a>
             </td>
             <td><a href="#"><img alt="HTML5" title="HTML5" height="50px"
                         src="https://cdn4.iconfinder.com/data/icons/blackicon/54/html5_icon-512.png" /></a>
             </td>
             <td><a href="#"><img alt="CSS3" title="CSS3" height="50px"
-                        src="https://www.pinclipart.com/picdir/big/495-4955744_css-logo-png-css-logo-black-and-white.png" /></a>
+                        src="https://www.clipartmax.com/png/middle/89-898951_html-icon-css-3-logo-white.png" /></a>
             </td>
             <td><a href="#"><img alt="C" title="C-programming" height="50px"
                         src="https://www.pikpng.com/pngl/m/542-5422836_c-programming-twitter-icon-png-black-circle-clipart.png" /></a>
