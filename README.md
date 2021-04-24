@@ -31,13 +31,13 @@
     <tbody>
         <tr>
             <td><a href="#"><img alt="Python" title="Python" height="50px"
-                        src='https://www.vhv.rs/dpng/d/442-4429865_johns-hopkins-logo-white-hd-png-download.png'></a>
+                        src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png'></a>
             </td>
             <td><a href="#"><img alt="HTML5" title="HTML5" height="50px"
                         src="https://cdn4.iconfinder.com/data/icons/blackicon/54/html5_icon-512.png" /></a>
             </td>
             <td><a href="#"><img alt="CSS3" title="CSS3" height="50px"
-                        src="https://www.clipartmax.com/png/middle/89-898951_html-icon-css-3-logo-white.png" /></a>
+                        src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" /></a>
             </td>
             <td><a href="#"><img alt="C" title="C-programming" height="50px"
                         src="https://www.pikpng.com/pngl/m/542-5422836_c-programming-twitter-icon-png-black-circle-clipart.png" /></a>
