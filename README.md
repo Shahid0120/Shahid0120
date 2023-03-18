@@ -12,8 +12,6 @@
             </td>
             <td><a href='https://www.instagram.com/shahid.h_/'><img alt='Instagram' title='Insta' height='60px' src='https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png'>
             </td>
-            <td>
-            </td>
         </tr>
     <tbody>
 </table>
