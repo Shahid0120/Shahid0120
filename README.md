@@ -12,7 +12,7 @@
             </td>
             <td><a href='https://www.instagram.com/shahid.h_/'><img alt='Instagram' title='Insta' height='60px' src='https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png'>
             </td>
-            <td><a href='#'><img alt='LinkedIn' title='LinkedIn' height='50px' src='https://www.linkedin.com/in/shahid-hussain-005952142/'>
+            <td>
             </td>
         </tr>
     <tbody>
