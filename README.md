@@ -1,31 +1,30 @@
-<!-- <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Shahid Hussain</h1> -->
-✔ Part-time Coder, full-time Fitness Enthusiast<br>
-✔ Mathematics Student **@UNSW** <br>
+<h1 align="center">Hi 👋, I'm Shahid Hussain</h1>
+<h3 align="center">I am a Mathematics and Marketing student working towards learning data science!</h3>
 
-### <img src='https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111' width='30px' alt='gif of pika saying hi'> Say hi to me?
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidh2001&label=Profile%20views&color=0e75b6&style=flat" alt="shahidh2001" /> </p>
 
-<table>
-    <tbody>
-        <tr>
-            <td><a href='https://www.facebook.com/profile.php?id=100029824131793'><img alt='Facebook' title='F.b' height='50px' src='https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png'></a></td>
-            <td><a href='https://www.instagram.com/shahid.h_/'><img alt='Instagram' title='Insta' height='60px' src='https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png'></a></td>
-        </tr>
-    </tbody>
-</table>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidh2001" alt="shahidh2001" /></a> </p>
 
-## 👨‍💻 Languages and Tools:
+- 🌱 I’m currently learning **Financial Time Series Analysis**
 
-<table>
-    <tbody>
-        <tr>
-            <td><a href="#"><img alt="Python" title="Python" height="50px" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png'></a></td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="50px" src="https://cdn4.iconfinder.com/data/icons/blackicon/54/html5_icon-512.png" /></a></td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" /></a></td>
-            <td><a href="#"><img alt="C" title="C-programming" height="50px" src="https://www.pikpng.com/pngl/m/542-5422836_c-programming-twitter-icon-png-black-circle-clipart.png" /></a></td>
-            <td><a href="#"><img alt="Ruby" title="Ruby" height="50px" src="https://img.favpng.com/13/1/21/ruby-web-development-programming-language-icon-png-favpng-juZNkNVLxBZQJxwkUPGNScZw2.jpg" /></a></td>
-        </tr>
-    </tbody>
-</table>
+- 📝 I regularly write articles on [https://shahid0120.github.io](https://shahid0120.github.io)
+
+- 📫 How to reach me **shahid.hussain0120@gmail.com**
+
+- ⚡ Fun fact **I'm the biggest NRL fan, haven't missed a game in over 3 years.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/shahidh2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/shahidh2001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahid hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahid hussain" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidh2001&show_icons=true&locale=en&layout=compact" alt="shahidh2001" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidh2001&show_icons=true&locale=en" alt="shahidh2001" /></p>
 
 
 
