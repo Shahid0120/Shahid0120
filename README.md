@@ -4,11 +4,13 @@
 
 - 🌱 I’m currently learning **Financial Time Series Analysis**
 
-- 📝 I regularly write articles on [https://shahid0120.github.io](https://shahid0120.github.io)
+- 📝 I regularly write articles on [Shahid0120 Blog](https://shahid0120.github.io)
 
 - 📫 How to reach me **shahid.hussain0120@gmail.com**
 
 - ⚡ Fun fact **I'm the biggest NRL fan, haven't missed a game in over 3 years.**
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
