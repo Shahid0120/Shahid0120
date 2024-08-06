@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I'm the biggest NRL fan, haven't missed a game in over 3 years.**
 
-- 
+- 👀 My favourite project [Atlassian and Allianz Datathon](https://github.com/Shahid0120/atlassian-allianz-data-competition)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
