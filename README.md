@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Financial Time Series Analysis**
 
-- 📝 I regularly write articles on [Shahid0120 Blog](https://shahid0120.github.io)
+- 📝 I regularly write articles on [My Blog](https://shahid0120.github.io)
 
 - 📫 How to reach me **shahid.hussain0120@gmail.com**
 
