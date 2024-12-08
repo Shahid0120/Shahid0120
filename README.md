@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahid Hussain</h1>
-<h3 align="center">I am a Mathematics and Marketing student working towards learning data science!</h3>
+<h3 align="center">I am a Mathematics and Marketing student working towards improving my analytic and strategic decision making skills!</h3>
 
 
 - 🌱 I’m currently learning **Tableau to improve my data analyst skills!**
