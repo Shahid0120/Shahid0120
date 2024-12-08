@@ -2,7 +2,7 @@
 <h3 align="center">I am a Mathematics and Marketing student working towards learning data science!</h3>
 
 
-- 🌱 I’m currently learning **Financial Time Series Analysis**
+- 🌱 I’m currently learning **Tableau to improve my data analyst skills!**
 
 - 📝 I regularly write articles on [My Blog](https://shahid0120.github.io)
 
